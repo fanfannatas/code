@@ -1,4 +1,4 @@
-# code
+# code du squelette sass
 # projet sass
 # site avec le front gerer par sass
 #
